@@ -11,9 +11,8 @@ Fair question. For web development, server has two meanings which are relevant t
 
 
  You have already been using and interacting with a number of web servers in the client-side part of the course:
- 1. You might not be surprised to find out that `serve` is an application that runs a web server. When it starts, it will look for content in whatever directory you supplied when you start the application.  
+ 1. You might not be surprised to find out that `http-server` is an application that runs a web server. When it starts, it will look for content in whatever directory you supplied when you start the application.  
  1. When you run `npm start`, the webpack development server listens for requests to `localhost:3000` and returns all of the javascript needed to run your React app in the browser. 
- 1. `json-server` is a program that listens for network requests and tries to map the url of the network request to data in a provided json file. We are going to talk a lot more about this idea of mapping routes (urls) to data resources later in the course. 
 
 ### The Request/Response Cycle
  What do all of these servers have in common? They all:
@@ -26,10 +25,10 @@ Fair question. For web development, server has two meanings which are relevant t
  ![HTTP Request/Response Cycle](./assets/request-response-cycle.png)
 
 ## Web Apps with C#/.NET
-Wait a minute, if `json-server` worked on the front end, can't we just use that forever? Sigh. I wish we could. But no, even its documentation says that it is only for mocking server-side apps. Once our applications are deployed and have a lot of data, or a lot of users, we will need more robust applications for our APIs. 
+Wait a minute, if `Firebase` worked on the front end, can't we just use that forever? Sigh. I wish we could. Once our applications are deployed and have a lot of data, or a lot of users, we will need more robust applications for our APIs. 
 
 ### C#
-C#/.NET (along with a SQL Server database) is a very popular language and platform with a rich toolchain and development environment for building those robust web applications. Building our own APIs (instead of using `json-server`'s automatically generated one) also lets us create custom resources tailor-made for our application's needs. There are a number of things about C# that are very different from JS, including:
+C#/.NET (along with a SQL Server database) is a very popular language and platform with a rich toolchain and development environment for building those robust web applications. Building our own APIs (instead of using `Firebase`'s automatically generated one) also lets us create custom resources tailor-made for our application's needs. There are a number of things about C# that are very different from JS, including:
 1. a strong type system (variables are declared as being strings or integers and many other types, and their type stays the same for their lifetime, among other things.)
 1. the code is compiled first before it is run. Compilation is the process of turning code into another type of code before running it, which has a number of benefits that we don't need to enumerate here.  
 
