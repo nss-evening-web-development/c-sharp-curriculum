@@ -4,7 +4,7 @@ In this project we will build a console app that allows users to browse, list, a
 You can always refer back to a previous column if you need help with syntax, but try to look up the documentation for the C# language feature you are trying to use as well. Getting used to reading documentation is a big part of being a software developer. The only real way to get better at it is by doing a lot of it. 
 
 ## Setup
-Refer to the directions in the [first chapter of column one](./setting-up-console-app.md) for creating this project. You can name it ExtraVert.
+Refer to the directions in the [Setting up a console app](./setting-up-console-app.md) for creating this project. You can name it ExtraVert.
 
 ## Creating the data
 Plants in our app will be represented as instances of the `Plant` class. Follow these steps to do that:
