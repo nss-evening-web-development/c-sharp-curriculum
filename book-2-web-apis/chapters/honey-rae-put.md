@@ -65,6 +65,13 @@ ticketToComplete.DateCompleted = DateTime.Today;
 Pick an incomplete ticket, and use Postman to make a request to this endpoint, and then check the data with a `GET` to confirm that it works!
 
 ## Additional Challenges
-This is the end of the Honey Rae's API walk-through. If you would like to explore using this API to serve data to a front-end client, look in the explorer chapters. There is also a chapter there to add additional endpoints to this API that require more complex logic. In addition to practicing with endpoints, they are good algorithmic practice. 
+This is the end of the Honey Rae's API walk-through. If you would like to explore using this API to serve data to a front-end client, look in the lessons below. There is also a chapter there to add additional endpoints to this API that require more complex logic. In addition to practicing with endpoints, they are good algorithmic practice. 
+
+|:compass: Optional Lessons|
+|--|
+|[REST design principles -naming routes](./rest-concepts.md)|
+|🍯 💻 [Adding More Endpoints to HoneyRae's](./honey-rae-more-endpoints.md)|
+|🍯 💻 [Add a front-end client for HoneyRae's API](./honey-rae-client.md)|
+|🍯 💻 [OpenAPI (Swagger)](./honey-rae-open-api.md)|
 
 
