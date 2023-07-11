@@ -1,7 +1,7 @@
 # Adding a Client to Honey Rae's API
 Follow the setup instructions in the README of [this repo](https://github.com/nss-group-projects/dotnet-honey-rae-client) to get starter code for the React client app. 
 
-**NOTE:** This is a React app and NOT NextJS, but you will not be handling routes in this app, so you should be fine because you know React. This is good practice for you as well to learn to step into a new code base and learn how to work within it. If you would like this to be NextJS, feel free to convert it yourself.
+**NOTE:** This is a React app and NOT NextJS, but you will not be creating routes in this app, so you should be fine because you know React. This is good practice for you as well to learn to step into a new code base and learn how to work within it. If you would like this to be NextJS, feel free to convert it yourself.
 
 ### Testing the `/servicetickets` endpoint
 Make sure that both the API and the React client are running. In the React client, click on the Service Tickets option in the nav bar, and you should see all of the tickets from the API displayed in the client. If you see that, you know that both projects are configured correctly. If you don't, go over the instructions to make sure you didn't miss a step, and find an instructor if you still can't get them running. 
