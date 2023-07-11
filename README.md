@@ -45,14 +45,6 @@ The .NET runtime will actually run our compiled C# code. A runtime is just anoth
 ## What this course is not
 It is important to point out that despite the name, this course is _not_ a course in C#. Yes, we will be learning a lot of C# and using .NET tools and libraries to build our apps, but that is not the primary goal of the course. This course is primarily a _web development_ course that happens to use C# for the backend language. C#/.NET is a much wider and deeper topic than we can completely cover in this course. For deeper dives into the language and platform, see some links below. 
 
-OK, got it all? I heard someone say yes, so let's get started. Work on the reflections below, and then head to the [Table of Contents](./TABLE_OF_CONTENTS.md). 
-___
-
-## ✍️ Reflections
-1. Take a look at some of the architecture diagrams in this chapter, and see if you can draw one for your own front-end capstone (you will likely write a lot of architecture diagrams in your career as a developer.) What are the different pieces, and how do they connect to each other?
-1. Share your diagram with a colleague and see how they are the same/different, and check in with yourself about what parts of the app architecture are still murky or mysterious. 
-1. Write those down to bring up later with your group and instructor!
-
 > Whenever you see "Additional Material" or "Additional Material and Exercises" at the end of a chapter you do not need to work on any of it before moving on to the next chapter, but if you have time for it on lab days or after class in the same week, it can be very helpful and is more than just footnotes for the chapters. Obviously you can come back to it later in the course, but that gets less likely the further away from it you get.
 ## 🔍 Additional Material
 1. [Microsoft C# Tutorials](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
