@@ -10,12 +10,12 @@ The previous dev team was able to complete the client and server side portions o
 ## Back End (Server) Setup and Instructions
 One person create the repo on Github from the link provided in the curriculum. Then, everyone will do the following:
 
-1. Create a directory that will hold the github repo. For example, `~/workspace/python/rare`.
+1. Create a directory that will hold the github repo. For example, `~/workspace/csharp/rare`.
 2. `cd` to that directory.
 3. Clone the server side repo into this folder. (Later, when you have completed the server side, you will clone the client into this same directory)
 4. Once cloned, follow the instructions in each readme has instructions to get the starter code set up.
 
-## Constraints for Vanilla Python Rare
+## Constraints for Rare
 
 * You are not going to worry about admin users for this first sprint. Assume all users are authors.
 * Since there are no admins, posts should be automatically published and not wait for approval.
@@ -41,7 +41,7 @@ Feel free to reference the tickets from the [client side project](https://github
   ## Front End (Client) Setup and Instructions
   The same person who created the BE repo on Github, create the FE repo. Then, everyone will do the following:
 
-  1. Create a directory that will hold both github repos. For example, `~/workspace/python/rare`.
+  1. Create a directory that will hold both github repos. For example, `~/workspace/sharp/rare`.
   2. `cd` to that directory.
   3. Clone the client side repo into this folder.
   4. Once cloned, follow the instructions in each readme has instructions to get the starter code set up.
