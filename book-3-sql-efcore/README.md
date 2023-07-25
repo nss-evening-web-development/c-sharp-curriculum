@@ -12,15 +12,7 @@ Because of the large scope of this book, it is split into three parts, roughly c
 
 :zap: [Getting started with SQL Bolt](https://sqlbolt.com/)
 
-## II. Querying a SQL database from a Web API
-| # |🍯💻 Honey Rae's API|
-|-|-|
-|1| [Creating a database for Honey Rae's API](./chapters/honey-rae-database.md) |
-|2| [Using Npgsql to make our first query](./chapters/honey-res-npgsql.md) |
-|3| [Getting related data](./chapters/honey-raes-related-data.md) |
-|4| [Inserting and Updating rows](./chapters/honey-raes-create.md) |
-|5| [Deleting a row](./chapters/honey-raes-delete.md) |
-## III. Entity Framework Core
+## II. Entity Framework Core
 |#|:tent: <br> Creek River Campground <br> (guided tour) | :book: <br> Loncotes County Library | :haircut: <br> Hillary's Hair Care |
 |:-:|:-:|:-:|:-:|
 |1| Project Setup |||
@@ -34,13 +26,19 @@ Because of the large scope of this book, it is split into three parts, roughly c
 |9| Update a campsite |||
 
 ## 🔍 Additional Materials
-|:compass: Extra SQL Practice|
-|-|
-|[Installations](./chapters/book-3-installs.md) :computer: |
-|:elephant: [Creating a PostgreSQL database using pgAdmin](./chapters/music-history-setup.md)|
-|:headphones: [Music History](./chapters/music-history-practice.md) |
-|:page_with_curl: [Using SQL scripts to create databases](./chapters/poki-setup.md)|
-|:black_nib: [Poems By Kids](./chapters/poki-practice.md)|
+|| :compass: Extra SQL Practice |
+|-|-|
+|1| [Installations](./chapters/book-3-installs.md) :computer: |
+|2| :elephant: [Creating a PostgreSQL database using pgAdmin](./chapters/music-history-setup.md)|
+|3| :headphones: [Music History](./chapters/music-history-practice.md) |
+|4| :page_with_curl: [Using SQL scripts to create databases](./chapters/poki-setup.md)|
+|5| :black_nib: [Poems By Kids](./chapters/poki-practice.md)|
+|#| 🍯💻 Honey Rae's API: Querying a SQL database from a Web API|
+|1| [Creating a database for Honey Rae's API](./chapters/honey-rae-database.md) |
+|2| [Using Npgsql to make our first query](./chapters/honey-res-npgsql.md) |
+|3| [Getting related data](./chapters/honey-raes-related-data.md) |
+|4| [Inserting and Updating rows](./chapters/honey-raes-create.md) |
+|5| [Deleting a row](./chapters/honey-raes-delete.md) |
 
 |:compass: Explorer Chapters|
 |-|
