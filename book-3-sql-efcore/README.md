@@ -24,7 +24,6 @@ Because of the large scope of this book, it is split into three parts, roughly c
 |7| [Get reservations](./chapters/creek-river-get-reservations.md) <br><sub style="font-size: 0.85rem;">#ThenInclude #OrderBy </sub>|
 |8| [Book reservations](./chapters/creek-river-book-reservation.md) |
 |9| [Calculating fees](./chapters/creek-river-calculated.md) <br><sub style="font-size: 0.85rem;">#field #static #private</sub>|
-|10|:car: [Inheritance](https://github.com/nashville-software-school/bangazon-inc/blob/server-side-curriculum/book-1-orientation/chapters/INHERITANCE_INTRO.md)|
 
 ## 🔍 Additional Materials
 || :compass: Extra SQL Practice |
