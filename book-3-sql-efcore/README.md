@@ -14,11 +14,6 @@ Because of the large scope of this book, it is split into three parts, roughly c
 ## I. Learning to write SQL
 
 |:zap: [Getting started with SQL Bolt](https://sqlbolt.com/)|
-|-|
-|:elephant: [Creating a PostgreSQL database using pgAdmin](./chapters/music-history-setup.md)|
-|:headphones: [Music History](./chapters/music-history-practice.md) |
-|:page_with_curl: [Using SQL scripts to create databases](./chapters/poki-setup.md)|
-|:black_nib: [Poems By Kids](./chapters/poki-practice.md)|
 
 ## II. Querying a SQL database from a Web API
 | # |🍯💻 Honey Rae's API|
@@ -42,6 +37,13 @@ Because of the large scope of this book, it is split into three parts, roughly c
 |9| Update a campsite |||
 
 ## 🔍 Additional Materials
+|:compass: Extra SQL Practice|
+|-|
+|:elephant: [Creating a PostgreSQL database using pgAdmin](./chapters/music-history-setup.md)|
+|:headphones: [Music History](./chapters/music-history-practice.md) |
+|:page_with_curl: [Using SQL scripts to create databases](./chapters/poki-setup.md)|
+|:black_nib: [Poems By Kids](./chapters/poki-practice.md)|
+
 |:compass: Explorer Chapters|
 |-|
 |🍯 💻 Finishing Honey Rae's with Npgsql |
