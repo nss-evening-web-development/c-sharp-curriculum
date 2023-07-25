@@ -39,10 +39,11 @@ Start on the top left, and work you way down. When you get to the bottom, contin
 |4|[Integers](./chapters/working-with-integers.md)|[Plant of the Day](./chapters/extravert-plant-of-day.md) <br> <sub style="font-size: 0.85rem;">#random</sub>||
 |5|[List](./chapters/thrown-for-a-loop-lists.md)|[Search](./chapters/extravert-search.md)|[Querying Data](./chapters/red-and-abe-linq.md)<br><sub style="font-size: 0.85rem;">#select #where #first</sub>|
 |6|[User-Defined Types: Classes](./chapters/classes-intro.md) |||
-|7|[DateTime](./chapters/foundations-datetime.md)|[Available Until](./chapters/extravert-date.md) ||
-|8|[Doubles and Decimals](./chapters/doubles-and-decimals.md)<br><sub style="font-size: 0.85rem;">#foreach</sub>|[Stats](./chapters/extravert-stats.md)<br><sub style="font-size: 0.85rem;">#casts</sub>||
-|9|[Exceptions and Error Handling](./chapters/handling-exceptions.md)|[Unexpected Data](./chapters/extravert-exceptions.md)<br> <sub style="font-size: 0.85rem;">#exception-types</sub>||
-|10|[Methods](./chapters/foundations-methods.md)|[Parameters](./chapters/extravert-methods.md)<br><sub style="font-size: 0.85rem;">#method-parameters</sub>|<sub style="font-size: 0.85rem;">#return-types</sub>|
+|7|:car: [Inheritance](./chapters/INHERITANCE_INTRO.md)|
+|8|[DateTime](./chapters/foundations-datetime.md)|[Available Until](./chapters/extravert-date.md) ||
+|9|[Doubles and Decimals](./chapters/doubles-and-decimals.md)<br><sub style="font-size: 0.85rem;">#foreach</sub>|[Stats](./chapters/extravert-stats.md)<br><sub style="font-size: 0.85rem;">#casts</sub>||
+|10|[Exceptions and Error Handling](./chapters/handling-exceptions.md)|[Unexpected Data](./chapters/extravert-exceptions.md)<br> <sub style="font-size: 0.85rem;">#exception-types</sub>||
+|11|[Methods](./chapters/foundations-methods.md)|[Parameters](./chapters/extravert-methods.md)<br><sub style="font-size: 0.85rem;">#method-parameters</sub>|<sub style="font-size: 0.85rem;">#return-types</sub>|
 |Assessments||[Concepts Self-Assessment]()|[Coding Assessment](./chapters/coding-self-assessment.md)|
 
 Once you have completed all of the Core Projects, your job is to do a self-assessment. Click on the link below to see what this book's assessment instructions are. Once complete, reach out to an instructor to review your vocabulary.
