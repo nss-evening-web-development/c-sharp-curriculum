@@ -8,12 +8,9 @@ In the front-end course, you used a JSON data file to store data (and data chang
 
 Because of the large scope of this book, it is split into three parts, roughly corresponding to the three technologies above. Start with the installations, and work your way down. Complete every column in a specific part before moving on to the next part:
 
-|[Installations for Book 3](./chapters/book-3-installs.md) :computer: |
-|--|
-
 ## I. Learning to write SQL
 
-|:zap: [Getting started with SQL Bolt](https://sqlbolt.com/)|
+:zap: [Getting started with SQL Bolt](https://sqlbolt.com/)
 
 ## II. Querying a SQL database from a Web API
 | # |🍯💻 Honey Rae's API|
@@ -39,6 +36,7 @@ Because of the large scope of this book, it is split into three parts, roughly c
 ## 🔍 Additional Materials
 |:compass: Extra SQL Practice|
 |-|
+|[Installations](./chapters/book-3-installs.md) :computer: |
 |:elephant: [Creating a PostgreSQL database using pgAdmin](./chapters/music-history-setup.md)|
 |:headphones: [Music History](./chapters/music-history-practice.md) |
 |:page_with_curl: [Using SQL scripts to create databases](./chapters/poki-setup.md)|
