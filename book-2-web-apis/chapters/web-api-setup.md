@@ -10,7 +10,7 @@ Web APIs respond to HTTP requests with HTTP responses. Here are two short videos
 ## Instructions
 
 1. navigate to `~/workspace/csharp` in your terminal
-1. Run this command: `dotnet new webapi -o HoneyRaesAPI -minimal`
+1. Run this command: `dotnet new webapi -n HoneyRaesAPI --framework net8.0`
 1. Run `cd HoneyRaesAPI`
 1. Run `dotnet new gitignore`
 1. Run `dotnet watch run`
